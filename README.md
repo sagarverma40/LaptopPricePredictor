@@ -29,6 +29,7 @@ Final trained model is saved as:
 import pickle
 
 pickle.dump(df,open('df.pkl','wb'))
+
 pickle.dump(pipe,open('pipe.pkl','wb'))
 
 
