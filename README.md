@@ -1,7 +1,7 @@
 # Laptop Price Predictor
 ## 📌 Overview
 This project aims to predict laptop prices based on various features such as brand, type, RAM, GPU, operating system, and memory configuration. It involves extensive data cleaning, feature engineering (especially memory storage extraction and classification), and the implementation of regression models within a pipeline.
-![Alt Text](image1.png)
+![Alt Text](img1.png)
 
 ## ⚙️ Tech Stack
 Python 🐍
